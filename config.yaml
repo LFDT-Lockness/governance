@@ -4,6 +4,8 @@ teams:
   - ryjones
   members:
   - survived
+  - maurges
+  - ncornwell
 - name: lf-staff
   maintainers:
   - ryjones
