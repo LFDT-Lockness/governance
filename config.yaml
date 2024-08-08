@@ -1,4 +1,9 @@
 teams:
+- name: lockness-maintainers
+  maintainers:
+  - ryjones
+  members:
+  - survived
 - name: lf-staff
   maintainers:
   - ryjones
