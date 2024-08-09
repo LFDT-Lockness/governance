@@ -1,9 +1,8 @@
 teams:
 - name: lockness-maintainers
   maintainers:
-  - ryjones
-  members:
   - survived
+  members:
   - maurges
   - ncornwell
 - name: lf-staff
@@ -16,7 +15,6 @@ teams:
   - hartm
   - minyu66
   - thelinuxfoundation
-  - tykeal
 - name: community
   maintainers:
   - ryjones
@@ -27,4 +25,5 @@ repositories:
 - name: governance
   teams:
     community: maintain
+    lockness-maintainers: maintain
   visibility: public
