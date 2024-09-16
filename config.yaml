@@ -27,7 +27,39 @@ repositories:
     community: maintain
     lockness-maintainers: maintain
   visibility: public
+- name: cggmp21
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
 - name: fast-paillier
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: generic-ec
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: paillier-zk
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: rand_hash
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: round-based
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: slip-10
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: stark-curve
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
+- name: udigest
   teams:
     lockness-maintainers: maintain
   visibility: public
