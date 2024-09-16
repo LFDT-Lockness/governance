@@ -27,3 +27,7 @@ repositories:
     community: maintain
     lockness-maintainers: maintain
   visibility: public
+- name: fast-paillier
+  teams:
+    lockness-maintainers: maintain
+  visibility: public
