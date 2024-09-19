@@ -1,4 +1,7 @@
 teams:
+- name: lockness-admins
+  maintainers:
+  - survived
 - name: lockness-maintainers
   maintainers:
   - survived
@@ -29,37 +32,46 @@ repositories:
   visibility: public
 - name: cggmp21
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: fast-paillier
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: generic-ec
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: paillier-zk
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: rand_hash
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: round-based
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: slip-10
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: stark-curve
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
 - name: udigest
   teams:
+    lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
