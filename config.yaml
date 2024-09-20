@@ -2,6 +2,8 @@ teams:
 - name: lockness-admins
   maintainers:
   - survived
+  members:
+  - maurges
 - name: lockness-maintainers
   maintainers:
   - survived
