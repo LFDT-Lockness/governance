@@ -37,6 +37,11 @@ repositories:
     lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
+- name: givre
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
+  visibility: public
 - name: fast-paillier
   teams:
     lockness-admins: admin
