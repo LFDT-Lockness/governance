@@ -53,6 +53,11 @@ repositories:
     lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
+- name: generic-ecies
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
+  visibility: public
 - name: paillier-zk
   teams:
     lockness-admins: admin
