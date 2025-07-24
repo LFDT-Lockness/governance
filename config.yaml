@@ -33,6 +33,10 @@ repositories:
     community: maintain
     lockness-maintainers: maintain
   visibility: public
+- name: .github
+  teams:
+    lockness-admins: admin
+  visibility: public
 - name: cggmp21
   teams:
     lockness-admins: admin
