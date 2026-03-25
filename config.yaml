@@ -92,3 +92,7 @@ repositories:
     lockness-admins: admin
     lockness-maintainers: maintain
   visibility: public
+- name: tecdh
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
