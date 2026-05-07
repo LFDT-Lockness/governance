@@ -26,7 +26,6 @@ teams:
   - ryjones
   members:
   - hartm
-  - tkuhrt
   
 repositories:
 - name: governance
