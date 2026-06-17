@@ -96,3 +96,9 @@ repositories:
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+  visibility: public
+- name: mentorship-2026
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
+  visibility: public
