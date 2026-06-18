@@ -6,7 +6,7 @@
 
 **Lockness a Series of LF Projects, LLC**
 
-**Adopted June 16, 2026**
+**Amended June 16, 2026**
 
 </div>
 
