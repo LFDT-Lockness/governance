@@ -9,8 +9,16 @@ teams:
   - survived
   members:
   - maurges
+  - Antoineurban
+- name: dfns
+  maintainers:
+  - survived
+  members:
+  - maurges
   - ncornwell
   - C0x41lch0x41
+  - Antoineurban
+    
 - name: lf-staff
   maintainers:
   - ryjones
@@ -32,6 +40,7 @@ repositories:
   teams:
     community: maintain
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: .github
   teams:
@@ -41,64 +50,77 @@ repositories:
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: givre
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: fast-paillier
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: generic-ec
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: generic-ecies
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: paillier-zk
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: rand_hash
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: round-based
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: hd-wallet
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: stark-curve
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: udigest
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: tecdh
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
 - name: mentorship-2026
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
+    dfns: maintain
   visibility: public
