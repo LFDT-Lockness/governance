@@ -18,6 +18,11 @@ teams:
   - ncornwell
   - C0x41lch0x41
   - Antoineurban
+- name: dkls-mentorship
+  maintainers:
+  - survived
+  members:
+  - zheguang
     
 - name: lf-staff
   maintainers:
@@ -129,6 +134,5 @@ repositories:
     lockness-admins: admin
     lockness-maintainers: maintain
     dfns: maintain
-  external_collaborators:
-    zheguang: write
+    dkls-mentorship: write
   visibility: public
