@@ -124,3 +124,11 @@ repositories:
     lockness-maintainers: maintain
     dfns: maintain
   visibility: public
+- name: dkls
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
+    dfns: maintain
+  external_collaborators:
+    zheguang: write
+  visibility: public
