@@ -141,7 +141,7 @@ repositories:
     dfns: maintain
     dkls-mentorship: write
   visibility: public
-- name: key-repair
+- name: key-share-repair
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
