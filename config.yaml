@@ -23,6 +23,7 @@ teams:
   - survived
   members:
   - zheguang
+  - Pranavjeet-Naidu
     
 - name: lf-staff
   maintainers:
@@ -130,6 +131,13 @@ repositories:
     dfns: maintain
   visibility: public
 - name: dkls
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
+    dfns: maintain
+    dkls-mentorship: write
+  visibility: public
+- name: key-repair
   teams:
     lockness-admins: admin
     lockness-maintainers: maintain
