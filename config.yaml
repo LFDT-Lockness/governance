@@ -48,6 +48,12 @@ repositories:
     teams:
       lockness-admins: admin
     visibility: public
+  - name: agora-glass_pumpkin
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
   - name: cggmp21
     teams:
       lockness-admins: admin
