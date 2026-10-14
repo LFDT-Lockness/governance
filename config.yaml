@@ -148,3 +148,9 @@ repositories:
     dfns: maintain
     adv-key-mngmt-mentorship: write
   visibility: public
+- name: agora-glass_pumpkin
+  teams:
+    lockness-admins: admin
+    lockness-maintainers: maintain
+    dfns: maintain
+  visibility: public
