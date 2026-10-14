@@ -1,150 +1,148 @@
 teams:
-- name: lockness-admins
-  maintainers:
-  - survived
-  members:
-  - maurges
-- name: lockness-maintainers
-  maintainers:
-  - survived
-  members:
-  - maurges
-  - Antoineurban
-- name: dfns
-  maintainers:
-  - survived
-  members:
-  - maurges
-  - ncornwell
-  - C0x41lch0x41
-  - Antoineurban
-- name: dkls-mentorship
-  maintainers:
-  - survived
-  members:
-  - zheguang
-- name: adv-key-mngmt-mentorship
-  maintainers:
-  - survived
-  members:
-  - Pranavjeet-Naidu
-    
-- name: lf-staff
-  maintainers:
-  - ryjones
-  members:
-  - SeanBohan
-  - daniela-barbosa
-  - davidwboswell
-  - hartm
-  - jwagantall
-  - thelinuxfoundation
-- name: community
-  maintainers:
-  - ryjones
-  members:
-  - hartm
-  
+  - name: adv-key-mngmt-mentorship
+    maintainers:
+      - survived
+    members:
+      - Pranavjeet-Naidu
+  - name: community
+    maintainers:
+      - ryjones
+    members:
+      - hartm
+  - name: dfns
+    maintainers:
+      - survived
+    members:
+      - Antoineurban
+      - C0x41lch0x41
+      - maurges
+      - ncornwell
+  - name: dkls-mentorship
+    maintainers:
+      - survived
+    members:
+      - zheguang
+  - name: lf-staff
+    maintainers:
+      - ryjones
+    members:
+      - daniela-barbosa
+      - davidwboswell
+      - hartm
+      - jwagantall
+      - SeanBohan
+      - thelinuxfoundation
+  - name: lockness-admins
+    maintainers:
+      - survived
+    members:
+      - maurges
+  - name: lockness-maintainers
+    maintainers:
+      - survived
+    members:
+      - Antoineurban
+      - maurges
 repositories:
-- name: governance
-  teams:
-    community: maintain
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: .github
-  teams:
-    lockness-admins: admin
-  visibility: public
-- name: cggmp21
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: givre
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: fast-paillier
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: generic-ec
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: generic-ecies
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: paillier-zk
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: rand_hash
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: round-based
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: hd-wallet
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: stark-curve
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: udigest
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: tecdh
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: mentorship-2026
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-  visibility: public
-- name: dkls
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-    dkls-mentorship: write
-  visibility: public
-- name: key-share-repair
-  teams:
-    lockness-admins: admin
-    lockness-maintainers: maintain
-    dfns: maintain
-    adv-key-mngmt-mentorship: write
-  visibility: public
+  - name: .github
+    teams:
+      lockness-admins: admin
+    visibility: public
+  - name: cggmp21
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: dkls
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+      dkls-mentorship: write
+    visibility: public
+  - name: fast-paillier
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: generic-ec
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: generic-ecies
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: givre
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: governance
+    teams:
+      community: maintain
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: hd-wallet
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: key-share-repair
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+      adv-key-mngmt-mentorship: write
+    visibility: public
+  - name: mentorship-2026
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: paillier-zk
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: rand_hash
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: round-based
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: stark-curve
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: tecdh
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
+  - name: udigest
+    teams:
+      lockness-admins: admin
+      lockness-maintainers: maintain
+      dfns: maintain
+    visibility: public
